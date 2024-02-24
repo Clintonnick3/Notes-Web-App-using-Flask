@@ -1,32 +1,26 @@
-# Notes-Web-App-using-Flask
-
-## Setup & Installation
-
-1. Make sure you have the latest version of Python installed.
-
-2. Clone the repository:
-   ```sh
-   git clone <repo-url>
-
-# Install the required dependencies:
+markdown
+Copy code
+## Install the required dependencies:
 
 ```sh
 pip install -r requirements.txt
-
-
-# Running The App
-
-## Execute the following command to run the application:
-```sh
+Running The App
+sh
+Copy code
 python main.py
+Viewing The App
+Open your web browser and navigate to:
 
-
-
-
-# Viewing The App
-## Open your web browser and navigate to:
-```sh
+sh
+Copy code
 http://127.0.0.1:5000
+This guide will help users understand how to set up, install, run, and view your application. Make sure to replace <repo-url> with the actual URL of your repository.
+
+vbnet
+Copy code
+
+Now each section is properly formatted and separated according to its respective heading.
 
 
-This guide will help users understand how to set up, install, run, and view your application. Make sure to replace `<repo-url>` with the actual URL of your repository.
+
+
