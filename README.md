@@ -15,6 +15,7 @@ pip install -r requirements.txt
 
 
 
+
 # Running The App
 
 ## Execute the following command to run the application:
