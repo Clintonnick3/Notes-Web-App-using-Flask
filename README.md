@@ -8,7 +8,7 @@
    ```sh
    git clone <repo-url>
 
-## Install the required dependencies:
+# Install the required dependencies:
 
 ```sh
 pip install -r requirements.txt
