@@ -9,14 +9,20 @@
    git clone <repo-url>
 
 ## Install the required dependencies:
+
 ```sh
 pip install -r requirements.txt
+
+
 
 # Running The App
 
 ## Execute the following command to run the application:
 ```sh
 python main.py
+
+
+
 
 # Viewing The App
 ## Open your web browser and navigate to:
