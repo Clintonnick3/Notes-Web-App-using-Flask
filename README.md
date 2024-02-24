@@ -10,6 +10,7 @@
 
 1. pip install -r requirements.txt
 
+<button onclick="navigator.clipboard.writeText('pip install -r requirements.txt')">Copy Command</button>
 # Running The App
 
 ## Execute the following command to run the application:
