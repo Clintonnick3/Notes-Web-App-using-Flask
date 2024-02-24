@@ -3,13 +3,13 @@
 1. Make sure you have the latest version of Python installed.
 
 2. Clone the repository:
-   ```bash
-   git clone <repo-url>
-   ```
+```bash
+git clone <repo-url>
+```
 
 # Install the required dependencies:
 ```bash
-1. pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 # Running The App
 
